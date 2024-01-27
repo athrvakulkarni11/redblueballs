@@ -1,0 +1,13 @@
+names:
+- Red-ball
+- blue-ball
+nc: 2
+roboflow:
+  license: CC BY 4.0
+  project: blue-ball-z6hni
+  url: https://universe.roboflow.com/athrva/blue-ball-z6hni/dataset/2
+  version: 2
+  workspace: athrva
+test: ../test/images
+train: blue-ball-2/train/images
+val: blue-ball-2/valid/images
